@@ -6,11 +6,7 @@
 <h1 align="center">thread-design-pattern</h1>
 <p align="center"><strong>多线程设计模式<br><em>持续更新中～</em></strong></p>
 <div align="center">
-    <a href="https://github.com/AlfonsoKevin/string-toolkit"><img src="https://img.shields.io/badge/github-项目地址-yellow.svg?style=plasticr"></a></div>
-
-
-
-
+    <a href="https://github.com/AlfonsoKevin/thread-design-pattern"><img src="https://img.shields.io/badge/github-项目地址-yellow.svg?style=plasticr"></a></div>
 
 ## 介绍😎
 
